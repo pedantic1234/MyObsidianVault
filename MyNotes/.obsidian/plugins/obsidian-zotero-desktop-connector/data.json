@@ -1,0 +1,44 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "MyLibrary/MyLibrary.bib",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "Format #2",
+      "format": "formatted-citation"
+    },
+    {
+      "name": "Format #1",
+      "format": "formatted-citation"
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "test",
+      "outputPathTemplate": "Test/{{title}}.md",
+      "imageOutputPathTemplate": "{{citekey}}/",
+      "imageBaseNameTemplate": "image"
+    },
+    {
+      "name": "ReviewPaper",
+      "outputPathTemplate": "01_Papers/Review/{{citekey}}.md",
+      "imageOutputPathTemplate": "{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "Reserch_Vault/06_Ideas/zotero_review_template.md",
+      "cslStyle": "norsk-apa-manual"
+    },
+    {
+      "name": "OriginalPaper",
+      "outputPathTemplate": "01_Papers/Original/{{citekey}}.md",
+      "imageOutputPathTemplate": "{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "Reserch_Vault/06_Ideas/zotero_template.md",
+      "cslStyle": "norsk-apa-manual"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": false,
+  "whichNotesToOpenAfterImport": "first-imported-note"
+}
