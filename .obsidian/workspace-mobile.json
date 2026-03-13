@@ -11,10 +11,14 @@
             "id": "090c387407fb5cfe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "MyNotes/QuickMemo/心原性脳塞栓症 | ジョンソン・エンド・ジョンソン.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "心原性脳塞栓症 | ジョンソン・エンド・ジョンソン"
             }
           }
         ]
@@ -108,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "test.md",
+            "file": "MyNotes/QuickMemo/心原性脳塞栓症 | ジョンソン・エンド・ジョンソン.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -167,8 +171,30 @@
   },
   "active": "090c387407fb5cfe",
   "lastOpenFiles": [
+    "MyNotes/StudyDeposit/無題のファイル.md",
+    "MyNotes/QuickMemo/心原性脳塞栓症 | ジョンソン・エンド・ジョンソン.md",
+    "MyNotes/Reserch_Vault/02_Dictionary/Research_Terms.md",
+    "MyNotes/Reserch_Vault/06_Ideas/zotero_template.md",
+    "MyNotes/QuickMemo/無題のファイル.md",
+    "MyNotes/Reserch_Vault/06_Ideas/zotero_review_template.md",
+    "MyNotes/Reserch_Vault/MyLibrary/MyLibrary.bib",
+    "MyNotes/Reserch_Vault/06_Ideas",
+    "MyNotes/Reserch_Vault/02_Dictionary",
+    "MyNotes/Reserch_Vault/MyLibrary",
+    "MyNotes/Reserch_Vault",
+    "/MyNotes/Reserch_Vault/06_Ideas/zotero_template.md",
+    "/MyNotes/Reserch_Vault/MyLibrary/MyLibrary.bib",
+    "/MyNotes/Reserch_Vault/06_Ideas/zotero_review_template.md",
+    "/MyNotes/QuickMemo/無題のファイル.md",
+    "/MyNotes/QuickMemo",
+    "/MyNotes/Reserch_Vault/02_Dictionary/Research_Terms.md",
+    "/MyNotes/Reserch_Vault/MyLibrary",
+    "/MyNotes/Reserch_Vault/06_Ideas",
+    "/MyNotes/Reserch_Vault/02_Dictionary",
+    "MyNotes/PaperSummarize/様らいず.md",
+    "/MyNotes/StudyDeposit/無題のファイル.md",
+    "/MyNotes/PaperSummarize/様らいず.md",
     "test.md",
-    "/MyNotes",
     "git clone.md",
     "MyNotes/ようこそ.md",
     "/MyNotes/ようこそ.md"
