@@ -1,6 +1,6 @@
 {
   "database": "Zotero",
-  "noteImportFolder": "MyLibrary/MyLibrary.bib",
+  "noteImportFolder": "My Library",
   "pdfExportImageDPI": 120,
   "pdfExportImageFormat": "jpg",
   "pdfExportImageQuality": 90,
@@ -16,10 +16,18 @@
   ],
   "exportFormats": [
     {
-      "name": "test",
-      "outputPathTemplate": "Test/{{title}}.md",
+      "name": "Import #4",
+      "outputPathTemplate": "My Library/{{title}}.md",
       "imageOutputPathTemplate": "{{citekey}}/",
-      "imageBaseNameTemplate": "image"
+      "imageBaseNameTemplate": "image",
+      "cslStyle": "nature"
+    },
+    {
+      "name": "Import #3",
+      "outputPathTemplate": "{{citekey}}.md",
+      "imageOutputPathTemplate": "{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "cslStyle": "nature"
     },
     {
       "name": "ReviewPaper",
@@ -27,7 +35,7 @@
       "imageOutputPathTemplate": "{{citekey}}/",
       "imageBaseNameTemplate": "image",
       "templatePath": "Reserch_Vault/06_Ideas/zotero_review_template.md",
-      "cslStyle": "norsk-apa-manual"
+      "cslStyle": "nature"
     },
     {
       "name": "OriginalPaper",
@@ -39,6 +47,6 @@
     }
   ],
   "citeSuggestTemplate": "[[{{citekey}}]]",
-  "openNoteAfterImport": false,
+  "openNoteAfterImport": true,
   "whichNotesToOpenAfterImport": "first-imported-note"
 }

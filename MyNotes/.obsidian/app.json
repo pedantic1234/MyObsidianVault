@@ -1,4 +1,5 @@
 {
   "newFileLocation": "folder",
-  "newFileFolderPath": "Reserch_Vault/01_Papers"
+  "newFileFolderPath": "Reserch_Vault/01_Papers",
+  "promptDelete": false
 }
